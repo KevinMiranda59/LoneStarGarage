@@ -1,0 +1,8 @@
+TYPESCRIPT
+TAILWIND.css (DaisyUI?) OR Bootstrap???
+React > Next.js
+Stripe or Paypal for payments
+Cypress Playwright or Vitest for tesing
+(Spelt with Vite??? Sounds fun to learn)
+
+Nah. We going : React with Next.js written in typescript. 
